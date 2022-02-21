@@ -1,0 +1,12 @@
+com.zebrands.notification
+com.zebrands.notification.constants
+com.zebrands.notification.dto
+com.zebrands.notification.entity
+com.zebrands.notification.factories
+com.zebrands.notification.manager
+com.zebrands.notification.manager.base
+com.zebrands.notification.manager.events
+com.zebrands.notification.manager.kafka
+com.zebrands.notification.repository
+com.zebrands.notification.requesters
+com.zebrands.notification.requesters.impl
